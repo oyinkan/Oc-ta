@@ -14,6 +14,10 @@
     .about-box img {
         width: 100%;
     }
+    .about p,
+    #motivation p {
+        width: 90%;
+    }
 }
 @media screen and (min-width: 576px) and (max-width: 767px) {
     .savings-box {
